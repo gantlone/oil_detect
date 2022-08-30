@@ -91,7 +91,7 @@ use machine learning to detect oil normal and abnormal data
 - H. Ling, C. Qian, W Kang, C. Liang, H. Chen, “Combination of Support Vector Machine and K-Fold cross validation to predict compressive strength of concrete in marine environment”, Construction and Building Materials, vol.206, pp.355-363, May. 2019.
 - D. R. Sawitri, D. A. Asfani, M. H. Purnomo, I. K. E. Purnama and M. Ashari, “Early detection of unbalance voltage in three phase induction motor based on SVM,” 2013 9th IEEE International Symposium on Diagnostics for Electric Machines, Power Electronics and Drives (SDEMPED), 2013, pp. 573-578.
 - Matlab為支持向量機或其他分類器擬合多類模型, [Online] Available: https://www.mathworks.com/help/stats/fitcecoc.html
-- atlab使用自定義的標準特徵選擇方法, [Online] Available: ttps://www.mathworks.com/help/stats/sequentialfs.html
+- Matlab使用自定義的標準特徵選擇方法, [Online] Available: ttps://www.mathworks.com/help/stats/sequentialfs.html
 
 
 
